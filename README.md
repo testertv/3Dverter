@@ -29,7 +29,7 @@ coming soon ...
 
 <h2 align="center"><b>Installation</b></h2>
 
-The program is portable, just download the archiv, unzip it and follow the instructions at the top.
+The program is portable, just download the archive, unzip it and follow the instructions at the top.
 
 <p align="center"> 
  <a href="https://github.com/testertv/" alt="License: GPLv3"><img src="https://img.shields.io/badge/Download-3Dverter-brightgreen.svg" width="250"></a>  
@@ -55,6 +55,7 @@ Alternatively, you can download all the components yourself:
 
 After downloading all the components, the structure should look like this:
 <p align="center"><a href=""><img src="https://raw.githubusercontent.com/testertv/3Dverter/refs/heads/main/Images/Tree.jpg?raw=true"></a></p> 
+
 
            
 Software BackUp (If one of the links above should not work):
@@ -83,4 +84,10 @@ The path where the program is located must not contain non-English letters or sp
 <h2 align="center"><b>Questions</b></h2>
 - Why are there old programs in the archive? -> I want the program to be supported by as many computers and operating systems as possible.
 
+<h2 align="center"><b>Important inforamtion</b></h2>
+The path where the program is located must not contain non-English letters or spaces.
 
+
+<h2 align="center"><b>💳 Please support my projects! 🤗 Thx.!!!</b></h2>
+<p align="center">
+<a href="" alt=""><img src="https://img.shields.io/badge/Ethereum-Wallet%20➡️-blue"></a>  0x23A82beB500b8781c55E6F17b7e327d85F7f4108 <a href="" alt=""><img src="https://img.shields.io/badge/-⬅️%20Wallet-blue"></a>
