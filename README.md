@@ -32,7 +32,7 @@ Alternatively, you can download all the components yourself:
 
 <p align="center">
         
-<a href="https://github.com/" alt=""><img src="https://img.shields.io/badge/Download-3Dverter-blue.svg"></a> 
+<a href="https://raw.githubusercontent.com/testertv/3Dverter/refs/heads/main/Releases/3Dverter(2024.12.12).exe" alt=""><img src="https://img.shields.io/badge/Download-3Dverter-blue.svg"></a> 
         
 <a href="https://github.com/ImageMagick/ImageMagick" alt=""><img src="https://img.shields.io/badge/Download-ImageMagick-blue.svg"></a> 
 
