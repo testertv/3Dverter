@@ -55,9 +55,11 @@ Software BackUp (If one of the links above should not work):
 
 <p align="center">
         
-<a href="https://github.com/ImageMagick/ImageMagick" alt=""><img src="https://img.shields.io/badge/Download-ImageMagick-blue.svg"></a> 
+<a href="https://raw.githubusercontent.com/testertv/3Dverter/refs/heads/main/Backup/ImageMagick/colors.xml" alt=""><img src="https://img.shields.io/badge/Download-ImageMagick(colors.xml)-blue.svg"></a> 
 
-<a href="https://potrace.sourceforge.net/" alt=""><img src="https://img.shields.io/badge/Download-Potrace-blue.svg"></a> 
+<a href="https://raw.githubusercontent.com/testertv/3Dverter/refs/heads/main/Backup/ImageMagick/convert.exe" alt=""><img src="https://img.shields.io/badge/Download-ImageMagick(convert.exe)-blue.svg"></a> 
+
+<a href="https://raw.githubusercontent.com/testertv/3Dverter/refs/heads/main/Backup/Potrace/potrace.exe" alt=""><img src="https://img.shields.io/badge/Download-Potrace-blue.svg"></a> 
 
 <a href="https://github.com/testertv/3Dverter/tree/main/Backup/FreeCAD" alt=""><img src="https://img.shields.io/badge/Download-FreeCADPortable-blue.svg"></a>
 </p><p align="center">
