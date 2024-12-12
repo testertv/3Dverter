@@ -8,7 +8,7 @@
 <a href="" alt=""><img src="https://img.shields.io/badge/OS-Windows 7 or higher-brightgreen.svg"></a>
 <a href="" alt=""><img src="https://img.shields.io/badge/SW--Kind-Portable-blue.svg"></a>
 <a href="" alt=""><img src="https://img.shields.io/badge/Language-VB.net%20-blue.svg"></a> 
-<a href="" alt=""><img src="https://img.shields.io/badge/Version-2024.12.XX(Beta)-blue.svg"></a>
+<a href="" alt=""><img src="https://img.shields.io/badge/Version-2024.12.12(Beta)-blue.svg"></a>
 </p><p align="center">
         
 
