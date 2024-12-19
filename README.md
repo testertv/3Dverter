@@ -25,7 +25,7 @@ Simple tool for converting images into 3D solid objects or for converting SVG in
 The program is portable, just download the archive, unzip it and follow the instructions at the top. 3Dverter version in the archive is not the newest, the most up-to-date is always at the link below.
 
 <p align="center"> 
- <a href="https://github.com/testertv/3Dverter/tree/main/Releases" alt="License: GPLv3"><img src="https://img.shields.io/badge/Download-3Dverter-brightgreen.svg" width="250"></a>
+ <a href="https://github.com/testertv/3Dverter/tree/main/Releases" alt="License: GPLv3"><img src="https://img.shields.io/badge/Download-3Dverter+Software-brightgreen.svg" width="250"></a>
  </p><p align="center">
  
 Alternatively, you can download all the components yourself:
